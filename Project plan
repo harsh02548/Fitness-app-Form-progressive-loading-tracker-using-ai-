@@ -1,0 +1,59 @@
+Problem: many people encorporate workouts into their everyday lives, however often times they:
+  Don't know if their form is correct
+  Don't consistently track workouts to promote progressive overload
+  Don't know how or when to progressively overload safely
+  Don't have access to a personal trainer
+
+Solution: Build an ai powered fitness app that uses the web cam to complete the following:
+  Count reps
+  Analyze form
+  Track workout overtime
+  Recommend increase in weight in order to progressively overload
+
+Goals for the future: 
+  Create an app that allows people to meet their fitness goals while minimizing injuries
+
+Target Audience:
+  Highschool/College students and overall beganeners to the gym - usually starting in the gym and standardizing form will minimize injury and the app will help progress faster
+  Personal trainers: Allows them to easily collect data about the users form
+
+Version 1 (prototype):
+  will use ai and the users webcame to detect the users form 
+  count reps
+  limited to few exercises such as sqauts
+
+Version 2:
+  add more standard exercises to expand the app
+  saving workouts
+  Workout history
+  Progress graphs over time
+
+Version 3:
+  AI form feedback
+  Personalized recommendations
+  Mobile app
+  User accounts
+  Cloud database
+
+Programming Language:
+  Python
+
+Libraries:
+  OpenCV
+  MediaPipe
+  NumPy
+  SQLite
+  Streamlit
+
+Skills I Need To Learn
+  Python
+  OpenCV
+  MediaPipe
+  Computer Vision
+  Databases
+  APIs
+  Mobile Development
+
+Current Progress
+  Day 1:
+    Project started
